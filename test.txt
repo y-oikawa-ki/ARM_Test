@@ -17,3 +17,9 @@ SourceTreeを利用してはじめて(の)コミットを行いました。
 ======
 Release1.00
 Release1.20
+======
+main()
+{
+  nop();
+}
+
