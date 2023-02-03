@@ -18,9 +18,14 @@ SourceTreeを利用してはじめて(の)コミットを行いました。
 Release1.00
 Release1.20
 ======
-func1()
+func2()
 {
   nop();
+}
+
+func1()
+{
+  func2();
 }
 
 main()
